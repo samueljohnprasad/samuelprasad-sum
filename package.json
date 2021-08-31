@@ -31,7 +31,7 @@
         "@medly/babel-config": "^0.1.3",
         "@medly/eslint-config": "^0.3.0",
         "@medly/prettier-config": "^0.1.1",
-        "@medly/rollup-config": "^0.7.0",
+        "@medly/rollup-config": "^0.7.1",
         "@medly/semantic-release-config": "^0.1.5",
         "@medly/typescript-config": "^0.2.2",
         "commitizen": "^4.2.4",

@@ -1403,10 +1403,10 @@
   dependencies:
     prettier "^2.3.1"
 
-"@medly/rollup-config@^0.7.0":
-  version "0.7.0"
-  resolved "https://registry.yarnpkg.com/@medly/rollup-config/-/rollup-config-0.7.0.tgz#c05da42ed633a32b5144964066ddd33d7c52d3c7"
-  integrity sha512-J/c2FCg8+kSh1WJq+rE2/mIuzvC9uD1NOSnHqHZMeMdushsHocaRNHPeMQ3cf4MAiuUxoRuTZhlE9H7iN3tOfA==
+"@medly/rollup-config@^0.7.1":
+  version "0.7.1"
+  resolved "https://registry.yarnpkg.com/@medly/rollup-config/-/rollup-config-0.7.1.tgz#2aa8f918702e476cdaaae176c38962172453ca4f"
+  integrity sha512-WQtcmdCnv3e8V4Q5AgFY5B1o/AAzSeHgAsJjY2e58uZTqY2JTdV8s4p8daSqWEjQI2bHp9YMAn/ElTvhZLXSFQ==
   dependencies:
     "@babel/core" "^7.14.5"
     "@rollup/plugin-babel" "^5.3.0"
